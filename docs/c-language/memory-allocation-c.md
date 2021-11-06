@@ -32,7 +32,6 @@ free(num);
 다음 코드는 C 언어에서 **동적 메모리 할당**에 대한 가장 최소한의 코드를 보여줍니다. 
 
 ```C
-// c_for.c
 // memory_allocation.c
 // 동적 메모리 할당
 #include <stdio.h>
