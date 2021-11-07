@@ -9,7 +9,8 @@ assetid: 560a8de4-20db-4868-9f18-dbe51b17900f
 # 포인터 시작 (C)
 
 2007년 01월 10일 오프라인 강의했던 자료입니다. 
-https://youtu.be/LCD39a8sM1o
+
+[자바캠퍼스 - C 언어 포인터 시작하기](https://youtu.be/LCD39a8sM1o)
 
 
 ## 예제: 01.포인터시작.c 
@@ -131,11 +132,11 @@ pa : 00EBFBF4
 ```
 
 
-## 참고 강좌
+## 참고
 
-C 언어 포인터 시작에 대한 참고 강좌는 다음 경로를 참고하거나 [데브렉](http://www.devlec.com) 사이트의 동영상 강의들을 참고하세요. 
 
-- [자바캠퍼스 - C 언어 포인터 시작하기](https://youtu.be/LCD39a8sM1o)
+더 많은 온라인 강좌는 [데브렉](http://www.devlec.com) 사이트의 동영상 강의들을 참고하세요. 
 
 - [데브렉](http://www.devlec.com)
+
 
