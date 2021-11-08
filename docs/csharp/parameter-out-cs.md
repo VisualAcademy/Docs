@@ -18,7 +18,7 @@ assetid: 560a8de4-21db-9968-9f18-dbe51b17900f
 ## 예제: ParameterOut.cs 
 
 
-```csharp
+```C#
 //[?] out 키워드로 반환형 매개 변수 전달 방식 함수 만들기
 using System;
 
