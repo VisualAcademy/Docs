@@ -1,7 +1,7 @@
 # Visual Studio 설치 
 
 프로그래밍할 때 소스 코드를 작성하는데 이러한 소스 코드를 작성할 때는 운영체제에 내장된 기본 편집기 또는 Visual Studio Code 같은 무료 편집기(에디터) 프로그램을 사용할 수 있습니다. 
-여러 가지 방식이 있지만 강의에서는 무료로 가장 손쉽게 사용할 수 있는 Visual Studio 커뮤니티 버전을 사용합니다. 
+여러 가지 방식이 있지만 박용준 강사의 강의에서는 무료로 가장 손쉽게 사용할 수 있는 Visual Studio 커뮤니티 버전을 사용합니다. 
 
 ```C#
 > // Visual Studio: 지구상에서 가장 발달된 소프트웨어 개발을 위한 통합 개발 환경(IDE)
@@ -45,4 +45,12 @@ Visual Studio는 2가지 경로를 통해서 얻을 수 있습니다.
 
 - 정식 버전 다운로드(http://www.visualstudio.com/downloads)
 - 미리보기 버전  다운로드(http://www.visualstudio.com/preview)
+
+### 강의 버전
+
+- C 언어 강의는 Visual Studio 2022 버전을 기준으로 제작되었습니다. 하지만, C 언어는 하위 호환성이 잘 되어 있기에 이 강의의 소스는 앞으로 나올 Visual Studio 다음 버전에서도 작성 후 실행이 가능합니다.
+- C# 강의는 Visual Studio 2022 버전을 기준으로 제작되었습니다. 하지만, C#은 하위 호환성이 잘 되어 있기에 이 강의의 소스는 앞으로 나올 Visual Studio 다음 버전에서도 작성 후 실행이 가능합니다.
+
+
+
 
