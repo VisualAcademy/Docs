@@ -46,7 +46,3 @@ Visual Studio는 2가지 경로를 통해서 얻을 수 있습니다.
 - 정식 버전 다운로드(http://www.visualstudio.com/downloads)
 - 미리보기 버전  다운로드(http://www.visualstudio.com/preview)
 
-이 강의는 Visual Studio 2022 버전을 기준으로 제작되었습니다. 하지만, C 언어는 하위 호환성이 잘 되어 있기에 이 강의의 소스는 앞으로 나올 Visual Studio 다음 버전에서도 작성 후 실행이 가능합니다.
-
-
-
