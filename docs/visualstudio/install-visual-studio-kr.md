@@ -6,3 +6,25 @@
 ```C#
 > // Visual Studio: 지구상에서 가장 발달된 소프트웨어 개발을 위한 통합 개발 환경(IDE)
 ```
+
+## Visual Studio와 Visual Studio Code
+
+Visual Studio는 마이크로소프트의 통합 개발 환경이며 소프트웨어를 개발할 때 사용하는 소프트웨어입니다. 
+Visual Studio는 C 언어, C#, ASP.NET, C++, Node.js, Python, JavaScript, TypeScript 등의 주요 프로그래밍 개발 환경을 제공합니다. 
+
+### 크로스 플랫폼 개발 환경
+
+C/C# 등 대부분의 프로그래밍 언어는 크로스 플랫폼을 지원하기에 이 강의의 모든 코드는 Windows, Mac, Linux에서 컴파일할 수 있습니다. Visual Studio는 Windows용이지만 Visual Studio for Mac과 같이 맥용 프로그램도 제공합니다. Linux에서 프로그래밍을 하려면 Visual Studio Code를 주로 사용합니다.
+
+###	편집기(Editor)와 통합 개발 환경(IDE)
+
+간단한 텍스트를 편집하는 도구를 편집기(에디터)라고 부릅니다. 
+이러한 에디터를 포함해서 프로그램을 작성할 때 필요한 편집기 및 디버거 등의 모든 기능을 다 제공하는 소프트웨어를 통합 개발 환경(Integrated Development Environment)이라고 하는데 줄여서 IDE라고 부릅니다. 
+Visual Studio가 대표적인 IDE입니다.
+
+- 편집기: Visual Studio Code
+- IDE: Visual Studio
+
+###	Visual Studio Code
+Visual Studio Code는 크로스 플랫폼을 제공하여 윈도, 맥, 리눅스 운영체제에서 모두 사용할 수 있는 전세계에서 가장 많은 개발자들이 사용하는 코드 편집기입니다. Visual Studio Code는 폴더 자체를 하나의 프로젝트로 인식하여 엽니다.
+
