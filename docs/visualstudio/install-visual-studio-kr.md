@@ -74,6 +74,7 @@ https://youtu.be/rrG0reVxq3s
 - https://www.visualstudio.com/downloads/ 
  
 ![Visual Studio 다운로드 사이트](./va-images/visual-studio-install/vs-2022-community-download.png)
+
 [그림] Visual Studio 다운로드 사이트 
 
 
@@ -81,15 +82,17 @@ https://youtu.be/rrG0reVxq3s
 참고로 설치 파일명은 시간이 지남에 따라서 다를 수 있습니다. 
 설치 파일을 기본값으로 다운로드를 받습니다. 
 
-
 (3) 다음 그림과 같이 Visual Studio 설치 파일을 다운로드합니다. 
 
+![Visual Studio 설치 파일 다운로드](./va-images/visual-studio-install/vs-community-exe.png)
 
 [그림] Visual Studio 설치 파일 다운로드 
 
 
 (4) 내려 받은 설치 파일을 더블 클릭하여 실행하면 다음 그림과 같이 Visual Studio Installer를 통해서 설치가 시작됩니다.
  
+![Visual Studio 설치 파일 다운로드](./va-images/visual-studio-install/vs-installer-start.png)
+
 [그림] Visual Studio Installer 실행
 
 
@@ -101,15 +104,18 @@ Visual Studio Community 2022에서 추가적으로 필요한 기능을 선택합
 - C#은 <.NET 데스크톱 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
 
 용량이 크기 때문에 설치하는 데 시간이 오래 걸립니다.
- 
+
+![Visual Studio 워크로드 선택](./va-images/visual-studio-install/cpp-deskotop-dev.png)
+
 [그림] 워크로드 선택 
 
 
 
 (6) 설치가 완료되면 Visual Studio Installer에 다음과 같이 Visual Studio Community 2022 목록이 추가됩니다. 
 
+![Visual Studio 설치](./va-images/visual-studio-install/vs-installer-end.png)
 
-[그림] Visual Studio Installer에 설치된 버전 리스트 표시 
+[그림] Visual Studio Installer로 Visual Studio 설치 
 
 
 
@@ -119,7 +125,7 @@ Visual Studio Community 2022에서 추가적으로 필요한 기능을 선택합
 
 (8) 처음 Visual Studio 2022를 실행하면 마이크로소프트 계정으로 로그인해야 합니다. 일단 <나중에 로그인>을 클릭하여 진행합니다.
  
-[그림] Visual Studio 실행
+[그림] Visual Studio 실행  
 
 
 Visual Studio에 마이크로소프트 계정으로 로그인하지 않으면 한 달 동안 평가판으로 사용할 수 있습니다. 평가판 사용 기한이 끝나면 라이선스를 업데이트하라는 경고 메시지가 출력됩니다. Visual Studio를 무료로 제한없이 계속 사용하려면 반드시 마이크로소프트 계정으로 로그인합니다.
