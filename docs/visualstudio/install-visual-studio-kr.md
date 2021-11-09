@@ -21,12 +21,11 @@ C/C# 등 대부분의 프로그래밍 언어는 크로스 플랫폼을 지원하
 간단한 텍스트를 편집하는 도구를 편집기(에디터)라고 부릅니다. 
 이러한 에디터를 포함해서 프로그램을 작성할 때 필요한 편집기 및 디버거 등의 모든 기능을 다 제공하는 소프트웨어를 통합 개발 환경(Integrated Development Environment)이라고 하는데 줄여서 IDE라고 부릅니다. 
 Visual Studio가 대표적인 IDE입니다.
+Visual Studio Code는 크로스 플랫폼을 제공하여 윈도, 맥, 리눅스 운영체제에서 모두 사용할 수 있는 전세계에서 가장 많은 개발자들이 사용하는 코드 편집기입니다. Visual Studio Code는 폴더 자체를 하나의 프로젝트로 인식하여 엽니다.
 
 - 편집기: Visual Studio Code
 - IDE: Visual Studio
 
-###	Visual Studio Code
-Visual Studio Code는 크로스 플랫폼을 제공하여 윈도, 맥, 리눅스 운영체제에서 모두 사용할 수 있는 전세계에서 가장 많은 개발자들이 사용하는 코드 편집기입니다. Visual Studio Code는 폴더 자체를 하나의 프로젝트로 인식하여 엽니다.
 
 
 
@@ -67,7 +66,7 @@ Visual Studio Community 2022를 내려 받고 설치하는 과정을 동영상 �
 https://youtu.be/rrG0reVxq3s
 
 
-#### 따라하기: Visual Studio 2022 다운로드 및 설치   
+### 따라하기: Visual Studio 2022 다운로드 및 설치   
 
 (1) Visual Studio 다운로드 사이트는 다음 그림과 같습니다. 웹 브라우저를 열고 다음 경로를 주소 창에 입력하여 접속합니다. 
 
@@ -104,13 +103,16 @@ Visual Studio Community 2022에서 추가적으로 필요한 기능을 선택합
 
 (5) 학습하고자하는 워크로드를 선택 후 <설치> 버튼을 눌러 설치를 진행합니다. 
 
-- C 언어는 <C/C++ 데스크톱 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
+- C 언어는 <C/C++ 데스크톱 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다.
+
   ![C언어 워크로드 선택](./va-images/visual-studio-install/cpp-workload.png)
 
 - C#은 <.NET 데스크톱 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
+
   ![C# 워크로드 선택](./va-images/visual-studio-install/csharp-workload.png)
 
 - ASP.NET은 <ASP.NET 및 웹 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
+
   ![ASP.NET 워크로드 선택](./va-images/visual-studio-install/aspnet-workload.png)
 
 
@@ -140,11 +142,11 @@ Visual Studio Community 2022에서 추가적으로 필요한 기능을 선택합
 [그림] Visual Studio 실행  
 
 
-Visual Studio에 마이크로소프트 계정으로 로그인하지 않으면 한 달 동안 평가판으로 사용할 수 있습니다. 평가판 사용 기한이 끝나면 라이선스를 업데이트하라는 경고 메시지가 출력됩니다. Visual Studio를 무료로 제한없이 계속 사용하려면 반드시 마이크로소프트 계정으로 로그인합니다.
+> Visual Studio에 마이크로소프트 계정으로 로그인하지 않으면 한 달 동안 평가판으로 사용할 수 있습니다. 평가판 사용 기한이 끝나면 라이선스를 업데이트하라는 경고 메시지가 출력됩니다. Visual Studio를 무료로 제한없이 계속 사용하려면 반드시 마이크로소프트 계정으로 로그인합니다.
 
-![Visual Studio 로그인](./va-images/visual-studio-install/va-vs-login-ms-account.png)
+> ![Visual Studio 로그인](./va-images/visual-studio-install/va-vs-login-ms-account.png)
 
-[그림] Visual Studio 로그인   
+> [그림] Visual Studio 로그인   
 
 
 (10) 마이크로소프트 계정으로 로그인하지 않았다면, 개발 설정에 대한 테마를 선택하는 부분이 나타납니다. 
@@ -155,24 +157,24 @@ Visual Studio에 마이크로소프트 계정으로 로그인하지 않으면 �
 
 만약 여기서 개발 설정을 다르게 선택하면 이후 메뉴 구성이 조금 다를 수 있습니다. 
 
-개발 설정 및 테마는 실행 후 <도구 > 설정 가져오기 및 내보내기> 메뉴에서 <모두 다시 설정> 옵션을 선택하면 다시 설정할 수 있습니다. 
+> 개발 설정 및 테마는 실행 후 <도구 > 설정 가져오기 및 내보내기> 메뉴에서 <모두 다시 설정> 옵션을 선택하면 다시 설정할 수 있습니다. 
 
-![Visual Studio 색 테마 선택](./va-images/visual-studio-install/visualstudio-theme.png)
+> ![Visual Studio 색 테마 선택](./va-images/visual-studio-install/visualstudio-theme.png)
 
-[그림] Visual Studio 색 테마 선택
+> [그림] Visual Studio 색 테마 선택
 
 
 처음 실행하면 테마를 설정할 수 있습니다. 각자 마음에 드는 테마로 설정하면 되며, 박용준 강사의 C 언어 강의에서는 다음과 같이 설정합니다.
 - 개발 설정(V): Visual C++
 - 색 테마 선택: 시스템 설정 사용 
 
-개발 환경 설정 변경은 다음 절차를 사용하여 변경이 가능합니다. 
-- <도구 > 설정 가져오기 및 내보내기 > 모두 다시 설정 > 아니요, 다시 설정하여 현재 설정을 덮어씁니다.>에서 변경할 수 있습니다. 
-- <도구 > 옵션 > 환경 > 일반 > 색 테마>에서 색 테마를 변경할 수 있습니다. 
+> 개발 환경 설정 변경은 다음 절차를 사용하여 변경이 가능합니다. 
+> - <도구 > 설정 가져오기 및 내보내기 > 모두 다시 설정 > 아니요, 다시 설정하여 현재 설정을 덮어씁니다.>에서 변경할 수 있습니다. 
+> - <도구 > 옵션 > 환경 > 일반 > 색 테마>에서 색 테마를 변경할 수 있습니다. 
 
-![Visual Studio 색 테마 선택](./va-images/visual-studio-install/va-vs-theme-change.png)
+> ![Visual Studio 색 테마 선택](./va-images/visual-studio-install/va-vs-theme-change.png)
 
-[그림] Visual Studio 설정 변경 
+> [그림] Visual Studio 설정 변경 
 
 
 (11) Visual Studio 2022 시작 페이지가 실행되었습니다. 오른쪽 하단의 <코드를 사용하지 않고 계속> 메뉴를 클릭하면 메인 화면으로 이동합니다. 
@@ -191,11 +193,11 @@ Visual Studio에 마이크로소프트 계정으로 로그인하지 않으면 �
 
 ![Visual Studio 글꼴](./va-images/visual-studio-install/vs-font.png)
 
-필자는 기본 글꼴을 사용하거나 "Cascadia Mono" 글꼴로 변경을 하였습니다. 
+> 필자는 기본 글꼴을 사용하거나 "Cascadia Mono" 글꼴로 변경을 하였습니다. 
 
-![Visual Studio 글꼴 변경](./va-images/visual-studio-install/va-vs-font-change.png)
+> ![Visual Studio 글꼴 변경](./va-images/visual-studio-install/va-vs-font-change.png)
  
-[그림] Visual Studio의 텍스트 편집기 글꼴 및 크기 변경 
+> [그림] Visual Studio의 텍스트 편집기 글꼴 및 크기 변경 
 
 
 ###	마무리  
