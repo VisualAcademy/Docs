@@ -81,58 +81,75 @@ https://youtu.be/rrG0reVxq3s
 (2) <Visual Studio 2022 커뮤니티 무료 다운로드> 링크를 클릭하면 설치 파일을 내려 받을 수 있습니다. 
 참고로 설치 파일명은 시간이 지남에 따라서 다를 수 있습니다. 
 설치 파일을 기본값으로 다운로드를 받습니다. 
-
-(3) 다음 그림과 같이 Visual Studio 설치 파일을 다운로드합니다. 
+다음 그림과 같이 Visual Studio 설치 파일을 다운로드합니다. 
 
 ![Visual Studio 설치 파일 다운로드](./va-images/visual-studio-install/vs-community-exe.png)
 
 [그림] Visual Studio 설치 파일 다운로드 
 
 
-(4) 내려 받은 설치 파일을 더블 클릭하여 실행하면 다음 그림과 같이 Visual Studio Installer를 통해서 설치가 시작됩니다.
+(3) 내려 받은 설치 파일을 더블 클릭하여 실행하면 다음 그림과 같이 Visual Studio Installer를 통해서 설치가 시작됩니다.
  
 ![Visual Studio 설치 파일 다운로드](./va-images/visual-studio-install/vs-installer-start.png)
 
 [그림] Visual Studio Installer 실행
 
-
-(5) 사용 조건에 동의하기 위해서 <계속> 버튼을 클릭합니다. 
+(4) 사용 조건에 동의하기 위해서 <계속> 버튼을 클릭합니다. 
 Visual Studio 설치 옵션을 나타내는 워크로드 선택화면에서는 학습하고자하는 프로그래밍 언어에 대한 옵션을 선택하면 됩니다. 
-Visual Studio Community 2022에서 추가적으로 필요한 기능을 선택합니다. 
-
-- C 언어는 <C/C++ 데스크톱 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
-- C#은 <.NET 데스크톱 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
-
-용량이 크기 때문에 설치하는 데 시간이 오래 걸립니다.
+Visual Studio Community 2022에서 추가적으로 필요한 기능을 선택합니다. [언어 팩] 탭에서는 영문 언어 팩을 체크해서 추가로 설치할 수 있습니다. 
 
 ![Visual Studio 워크로드 선택](./va-images/visual-studio-install/cpp-deskotop-dev.png)
 
 [그림] 워크로드 선택 
 
+(5) 학습하고자하는 워크로드를 선택 후 <설치> 버튼을 눌러 설치를 진행합니다. 
+
+- C 언어는 <C/C++ 데스크톱 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
+  ![C언어 워크로드 선택](./va-images/visual-studio-install/cpp-workload.png)
+
+- C#은 <.NET 데스크톱 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
+  ![C# 워크로드 선택](./va-images/visual-studio-install/csharp-workload.png)
+
+- ASP.NET은 <ASP.NET 및 웹 개발>을 선택한 후 <설치> 버튼을 눌러 설치를 계속 진행합니다. 
+  ![ASP.NET 워크로드 선택](./va-images/visual-studio-install/aspnet-workload.png)
 
 
-(6) 설치가 완료되면 Visual Studio Installer에 다음과 같이 Visual Studio Community 2022 목록이 추가됩니다. 
+(6) Visual Studio 설치는 용량이 크기 때문에 설치하는 데 시간이 오래 걸립니다.
 
 ![Visual Studio 설치](./va-images/visual-studio-install/vs-installer-end.png)
 
 [그림] Visual Studio Installer로 Visual Studio 설치 
 
 
+(7) 설치가 완료되면 Visual Studio Installer에 다음과 같이 Visual Studio Community 2022 목록이 추가됩니다. 
 
-(7) 설치가 완료되면 시작 버튼을 클릭한 후 설치된 앱에서 Visual Studio 2022을 찾은 후 클릭하여 Visual Studio 2022을 시작합니다. 
+![Visual Studio 설치 리스트](./va-images/visual-studio-install/visual-studio-installer-list.png)
 
 
+(8) 설치가 완료되면 시작 버튼을 클릭한 후 설치된 앱에서 Visual Studio 2022을 찾은 후 클릭하여 Visual Studio 2022을 시작합니다. 
 
-(8) 처음 Visual Studio 2022를 실행하면 마이크로소프트 계정으로 로그인해야 합니다. 일단 <나중에 로그인>을 클릭하여 진행합니다.
+![Visual Studio 찾기](./va-images/visual-studio-install/va-visualstudio-search.png)
+
+[그림] 설치된 Visual Studio 찾기 
+
+
+(9) 처음 Visual Studio 2022를 실행하면 마이크로소프트 계정으로 로그인해야 합니다. 일단 <나중에 로그인>을 클릭하여 진행합니다.
  
+![Visual Studio 로그인](./va-images/visual-studio-install/visual-studio-login.png)
+
 [그림] Visual Studio 실행  
 
 
 Visual Studio에 마이크로소프트 계정으로 로그인하지 않으면 한 달 동안 평가판으로 사용할 수 있습니다. 평가판 사용 기한이 끝나면 라이선스를 업데이트하라는 경고 메시지가 출력됩니다. Visual Studio를 무료로 제한없이 계속 사용하려면 반드시 마이크로소프트 계정으로 로그인합니다.
 
-(9) 마이크로소프트 계정으로 로그인하지 않았다면, 개발 설정에 대한 테마를 선택하는 부분이 나타납니다. 
+![Visual Studio 로그인](./va-images/visual-studio-install/va-vs-login-ms-account.png)
 
-- C 언어 강의에서는 개발 설정으로 Visual C 언어, 색 테마로 시스템 기본값을 선택하였습니다. 
+[그림] Visual Studio 로그인   
+
+
+(10) 마이크로소프트 계정으로 로그인하지 않았다면, 개발 설정에 대한 테마를 선택하는 부분이 나타납니다. 
+
+- C 언어 강의에서는 개발 설정으로 Visual C++, 색 테마로 시스템 기본값을 선택하였습니다. 
 - C# 강의에서는 개발 설정으로 Visual C#, 색 테마로 시스템 기본값을 선택하였습니다. 
 - ASP.NET 강의에서는 개발 설정으로 ASP.NET, 색 테마로 시스템 기본값을 선택하였습니다. 
 
@@ -140,32 +157,43 @@ Visual Studio에 마이크로소프트 계정으로 로그인하지 않으면 �
 
 개발 설정 및 테마는 실행 후 <도구 > 설정 가져오기 및 내보내기> 메뉴에서 <모두 다시 설정> 옵션을 선택하면 다시 설정할 수 있습니다. 
 
+![Visual Studio 색 테마 선택](./va-images/visual-studio-install/visualstudio-theme.png)
 
 [그림] Visual Studio 색 테마 선택
 
 
-처음 실행하면 테마를 설정할 수 있습니다. 각자 마음에 드는 테마로 설정하면 되며, 이 강의에서는 다음과 같이 설정합니다.
-- 개발 설정(V): Visual C 언어
-- 색 테마: 파랑
+처음 실행하면 테마를 설정할 수 있습니다. 각자 마음에 드는 테마로 설정하면 되며, 박용준 강사의 C 언어 강의에서는 다음과 같이 설정합니다.
+- 개발 설정(V): Visual C++
+- 색 테마 선택: 시스템 설정 사용 
 
 개발 환경 설정 변경은 다음 절차를 사용하여 변경이 가능합니다. 
 - <도구 > 설정 가져오기 및 내보내기 > 모두 다시 설정 > 아니요, 다시 설정하여 현재 설정을 덮어씁니다.>에서 변경할 수 있습니다. 
 - <도구 > 옵션 > 환경 > 일반 > 색 테마>에서 색 테마를 변경할 수 있습니다. 
 
+![Visual Studio 색 테마 선택](./va-images/visual-studio-install/va-vs-theme-change.png)
 
-(10) Visual Studio 2022 시작 페이지가 실행되었습니다. 오른쪽 하단의 <코드를 사용하지 않고 계속> 메뉴를 클릭하면 메인 화면으로 이동합니다. 
+[그림] Visual Studio 설정 변경 
 
+
+(11) Visual Studio 2022 시작 페이지가 실행되었습니다. 오른쪽 하단의 <코드를 사용하지 않고 계속> 메뉴를 클릭하면 메인 화면으로 이동합니다. 
+
+![Visual Studio 시작 화면](./va-images/visual-studio-install/visual-studio-start.png)
 
 [그림] Visual Studio 시작 화면
 
 
-(11) 다음 그림은 Visual Studio 2022의 메인 화면입니다. 
- 
+(12) 다음 그림은 Visual Studio 2022의 메인 화면입니다. 
 
-(12) 참고로, 글꼴 변경은 Visual Studio 메뉴의 <도구 > 옵션 > 환경 > 글꼴 및 색 > 글꼴>에서 글꼴을 변경할 수 있습니다. 
+![Visual Studio 메인 화면](./va-images/visual-studio-install/va-visualstudio-main.png)
 
-필자는 기본 글꼴을 사용하거나 Consolas 글꼴로 변경을 하였습니다. 
 
+(13) 참고로, 글꼴 변경은 Visual Studio의 검색에서 "글꼴"을 검색하거나 Visual Studio 메뉴의 <도구 > 옵션 > 환경 > 글꼴 및 색 > 글꼴>에서 글꼴을 변경할 수 있습니다. 
+
+![Visual Studio 글꼴](./va-images/visual-studio-install/vs-font.png)
+
+필자는 기본 글꼴을 사용하거나 "Cascadia Mono" 글꼴로 변경을 하였습니다. 
+
+![Visual Studio 글꼴 변경](./va-images/visual-studio-install/va-vs-font-change.png)
  
 [그림] Visual Studio의 텍스트 편집기 글꼴 및 크기 변경 
 
