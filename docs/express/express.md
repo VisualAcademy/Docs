@@ -91,3 +91,24 @@ package.json
 ```
 
 
+## /index.js
+
+```JS
+import express from "express";
+
+const app = express(); 
+
+const PORT = 3000;
+
+app.lesten(PORT, () => {
+  console.log(`Server start on port ${PORT}`);
+})
+```
+
+```Terminal
+npm start
+```
+
+
+
+
