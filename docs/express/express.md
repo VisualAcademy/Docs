@@ -28,6 +28,8 @@ express - h
 express --git --hbs expressapp 
 cd expressapp
 npm install 
+DEBUG=expressapp:* npm start 
+start http://localhost:3000 
 ```
 
 ## public 폴더
@@ -44,5 +46,48 @@ npm install
 핸들바를 사용하는 뷰 페이지 영역
 
 
+
+## ExpressNote
+
+```Terminal
+npm init
+(엔터)
+(엔터)
+(엔터)
+(엔터)
+(엔터)
+(엔터)
+author: RedPlus
+
+cd express-note
+code . 
+npm install express nodemon 
+npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/node 
+touch .babelrc 
+```
+
+## .babelrc 파일
+
+```Text
+{
+  'presets': [
+    "@babel/preset-env"
+  ]
+}
+```
+
+## package.json 
+
+package.json
+```JSON
+{
+  ...
+  "type": "module", 
+  ...
+  "scripts": {
+    "start": "nodemon --experimental-json-modules --exec babel-node index.js"
+  }
+}
+```
 
 
