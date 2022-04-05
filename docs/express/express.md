@@ -146,4 +146,11 @@ app.listen(3000, () => {
 });
 ```
 
+```Terminal
+node app.js 
+
+start http://localhost:3000 
+```
+
+
 
