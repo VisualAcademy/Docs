@@ -47,6 +47,7 @@ express --git --hbs expressapp
 cd expressapp
 npm install 
 DEBUG=expressapp:* npm start 
+    DEBUG=* & node app.js
 start http://localhost:3000 
 ```
 
