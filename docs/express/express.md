@@ -13,8 +13,36 @@ https://nodejs.org
 * node -v
 * npm -v
 
-# Express Application Generator
+## Express Application Generator
 
 https://expressjs.com/en/starter/generator.html
+
+* npx express generator
+
+## Hello World
+
+```Terminal
+md express
+cd express
+express - h 
+express --git --hbs expressapp 
+cd expressapp
+npm install 
+```
+
+## public 폴더
+
+정적 파일들이 들어오는 곳
+
+
+## routes 폴더
+
+라우팅 설정
+
+## views 폴더
+
+핸들바를 사용하는 뷰 페이지 영역
+
+
 
 
