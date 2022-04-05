@@ -21,6 +21,12 @@ Express는 Node.js 웹 프레임워크입니다.
 * npm -v
   * npm --version 
 
+
+> * nvm - Node Version Manager
+> * nvm-windows 
+> * nvm install node 
+
+
 ## Express Application Generator
 
 https://expressjs.com/en/starter/generator.html
