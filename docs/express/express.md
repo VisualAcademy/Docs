@@ -67,14 +67,17 @@ start http://localhost:3000
 
 ## ExpressNote
 
+* npm init
+* npm install express
+
 ```Terminal
 npm init
-(엔터)
-(엔터)
-(엔터)
-(엔터)
-(엔터)
-(엔터)
+p(엔터)
+v(엔터)
+d(엔터)
+t(엔터)
+g(엔터)
+k(엔터)
 author: RedPlus
 
 cd express-note
