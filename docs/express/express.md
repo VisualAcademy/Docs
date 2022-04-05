@@ -1,17 +1,25 @@
-# Express 
+# Express Fundamentals 
 
 Express는 Node.js 웹 프레임워크입니다. 
 
+## Node.js
+
+* 서버 쪽 자바스크립트
+* 크로스 플랫폼
+* 자바스크립트/타입스크립트 그 자체
+* 오픈소스 
 
 ## Node.js와 NPM 설치
 
-https://nodejs.org
-
+* https://nodejs.org
+  * LTS 버전 설치(강의 기준) 
 
 ## 버전 확인
 
 * node -v
+  * node --version
 * npm -v
+  * npm --version 
 
 ## Express Application Generator
 
