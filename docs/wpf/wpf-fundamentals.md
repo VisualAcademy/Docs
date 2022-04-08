@@ -1,13 +1,10 @@
-# WPF Fundamentals
+# WPF Fundamentals, WPF 워크숍, WPF 핸즈온랩
 
 
 ## WPF 소개
 
 
 ## Hello World
-
-
-
 
 
 ## MVVM
